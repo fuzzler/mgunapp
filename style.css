@@ -1,0 +1,42 @@
+html {
+    background-color: lightblue;
+    height: 100%;
+}
+
+body {
+    background-color: lightblue;
+}
+
+form {
+    padding: 5px 0px;
+    margin: 5px 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input, textarea, button {
+    padding: 5px;
+    margin: 0px;
+}
+
+.args {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.redbold {
+    color: red;
+    font-weight: bold;
+}
+
+.validmess {
+    color: green;
+    background-color: lightcyan;
+    font-weight: bold;
+}
+
+.txtcenter {
+    text-align: center;
+}
